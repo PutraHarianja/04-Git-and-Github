@@ -73,3 +73,6 @@ https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-me
 https://stackoverflow.com/questions/15286075/difference-between-git-stash-pop-and-git-stash-apply
 
 https://www.w3docs.com/learn-git/git-rebase.html#the-difference-between-git-rebase-standard-and-git-rebase-interactive-7
+
+  ---
+  SOAL KELIMA ada pada link berikut : https://github.com/PutraHarianja/tech4impact-students-bio
